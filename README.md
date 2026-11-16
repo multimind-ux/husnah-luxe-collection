@@ -2,6 +2,9 @@
 
 A dark-luxury editorial storefront for **Husnah Luxe Collection**, built as a separate project from Jibola Collection.
 
+**Live site:** https://husnah-luxe-collection.vercel.app  
+**GitHub:** https://github.com/multimind-ux/husnah-luxe-collection
+
 - **Store name in the UI:** Husnah Luxe Collection
 - **Working project folder:** `/home/abdulbasit/noir-atelier`
 - **Storefront type:** frontend-only, WhatsApp checkout
@@ -112,7 +115,7 @@ It regenerates fallback images in `public/images/placeholders/` and the favicon.
 
 ## Deployment
 
-The site is ready for a static Vercel deployment. `vercel.json` rewrites all routes to `index.html` so React Router routes work on refresh.
+The site is deployed on Vercel at https://husnah-luxe-collection.vercel.app. `vercel.json` rewrites all routes to `index.html` so React Router routes work on refresh.
 
 Recommended flow:
 
