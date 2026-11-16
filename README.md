@@ -79,12 +79,12 @@ Edit `src/data/store.json`:
 - `name`, `shortName`, `tagline`, `description`, `metaDescription`
 - `whatsapp` — international format, no `+` or spaces (currently `2347080059463`)
 - `phone` — display format
-- `email` — **currently a placeholder:** `hello@husnahluxe.example`
+- `email` — currently `adamasmauoluwakemu2024@gmail.com`
 - `instagramUrl` — leave empty to hide the Instagram link in the footer
 - `location`, `address`, `hours`, `announcement`, `deliveryNote`
 - `hero`, `marquee`, `categories`, `why`, `about`, `trust`, `contact`
 
-The current email address, stock counts and Instagram link have not been supplied by the store owner. Replace them before launch.
+Stock counts and the Instagram/location details are still placeholders or hidden. Confirm them before launch.
 
 ## Product copy rules
 

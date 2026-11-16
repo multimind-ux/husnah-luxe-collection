@@ -178,6 +178,17 @@ try {
     check(`${path} renders`, text.length > 100)
   }
 
+  await page.goto(`${base}/contact`, { waitUntil: 'networkidle' })
+  await wait()
+  const contactText = await page.locator('body').innerText()
+  check('real store email is displayed', contactText.includes('adamasmauoluwakemu2024@gmail.com'))
+  check(
+    'email link uses the real address',
+    (await page.locator('a[href^="mailto:"]').first().getAttribute('href'))?.startsWith(
+      'mailto:adamasmauoluwakemu2024@gmail.com',
+    ),
+  )
+
   await page.setViewportSize({ width: 390, height: 844 })
   await page.goto(base, { waitUntil: 'networkidle' })
   await wait(500)
