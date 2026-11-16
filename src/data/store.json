@@ -1,0 +1,111 @@
+{
+  "placeholder": true,
+  "name": "Husnah Luxe Collection",
+  "shortName": "Husnah Luxe",
+  "tagline": "Luxury, within reach.",
+  "description": "A tightly edited collection of fragrance, scarves and everyday luxury. Curated in Nigeria, delivered across the country.",
+  "metaDescription": "Husnah Luxe Collection — fragrance, scarves and everyday luxury. Order on WhatsApp and get delivery across Nigeria.",
+  "whatsapp": "2347080059463",
+  "phone": "0708 005 9463",
+  "email": "hello@husnahluxe.example",
+  "instagram": "@husnahluxe",
+  "instagramUrl": "",
+  "location": "Nigeria",
+  "address": "Online store · Delivery across Nigeria",
+  "hours": "Mon–Sat · 9am–7pm",
+  "responseTime": "We usually reply within 30 minutes.",
+  "currency": "₦",
+  "announcement": "Order on WhatsApp · Delivery across Nigeria",
+  "deliveryNote": "Delivery across Nigeria",
+  "whatsappGreeting": "Hi Husnah Luxe Collection, I have a question.",
+  "hero": {
+    "eyebrow": "The new edit · 2026",
+    "titleLines": ["DARK", "LUXURY", "DELIVERED."],
+    "outlinedLine": 1,
+    "body": "Fragrance, scarves and everyday luxury for the ones who arrive first.",
+    "primaryCta": "Shop the drop",
+    "secondaryCta": "Explore the edit",
+    "featuredImage": "/images/products/bourbon-eau-de-parfum-hero.webp"
+  },
+  "marquee": [
+    "NEW ARRIVALS",
+    "RESTOCKED",
+    "FRAGRANCE",
+    "SCARVES",
+    "FREE TO ASK ON WHATSAPP",
+    "DELIVERY ACROSS NIGERIA",
+    "CURATED IN NIGERIA"
+  ],
+  "categories": [
+    {
+      "name": "Fragrance",
+      "slug": "fragrance",
+      "caption": "Perfume, oil and scent.",
+      "image": "/images/products/bourbon-eau-de-parfum.jpg"
+    },
+    {
+      "name": "Scarves",
+      "slug": "scarves",
+      "caption": "Jersey, chiffon and vintage.",
+      "image": "/images/products/uae-jersey-scarf.jpg"
+    },
+    {
+      "name": "Combos",
+      "slug": "combos",
+      "caption": "Ready-made scent sets.",
+      "image": "/images/products/pink-fragrance-combo.jpg"
+    },
+    {
+      "name": "Body & Essentials",
+      "slug": "body-essentials",
+      "caption": "Mists, sprays and the finishing layer.",
+      "image": "/images/products/perfumed-body-spray-250ml.jpg"
+    }
+  ],
+  "why": [
+    {
+      "title": "A tight edit",
+      "body": "No endless scroll. Just fragrance, scarves and everyday pieces we would use ourselves."
+    },
+    {
+      "title": "Nationwide delivery",
+      "body": "Lagos, Abuja, Port Harcourt and beyond — arranged directly on WhatsApp."
+    },
+    {
+      "title": "Human checkout",
+      "body": "Every order is confirmed by a real person before it leaves us."
+    },
+    {
+      "title": "Easy gifting",
+      "body": "Scents and sets that arrive ready to give, wrap and enjoy."
+    }
+  ],
+  "about": {
+    "eyebrow": "The house code",
+    "title": "Not for everyone.",
+    "body": "Husnah Luxe Collection is a small, deliberate edit of fragrance, scarves and everyday luxury. We choose pieces that are easy to wear, easy to gift and easy to come back to — then keep the edit tight enough that everything has a reason to be here.",
+    "secondary": "Made for the ones who dress for themselves, move at their own pace, and know that the last detail is rarely an afterthought.",
+    "values": [
+      "A small, considered edit",
+      "Warm, human service",
+      "Nationwide delivery",
+      "Easy, gift-ready pieces"
+    ]
+  },
+  "trust": {
+    "eyebrow": "Order with confidence",
+    "title": "Delivered across Nigeria, confirmed on WhatsApp.",
+    "body": "Choose your piece, send your order, and we’ll confirm availability, delivery and payment details with you directly. No accounts, no card forms, no bots.",
+    "points": [
+      "Delivery arranged across Nigeria",
+      "Order and pay via WhatsApp",
+      "Real-time stock confirmation",
+      "Easy gifting and bundle pricing"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Talk to us",
+    "title": "The fastest way to get an answer is a message.",
+    "body": "Questions about a scent, a scarf, a gift or delivery? Send us a note on WhatsApp. For everything else, call or email."
+  }
+}

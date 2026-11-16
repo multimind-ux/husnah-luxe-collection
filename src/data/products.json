@@ -1,0 +1,825 @@
+[
+  {
+    "id": "uae-jersey-scarf",
+    "slug": "uae-jersey-scarf",
+    "name": "UAE Jersey Scarf",
+    "category": "Scarves",
+    "price": 3000,
+    "stock": 3,
+    "tag": "Best seller",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": true,
+    "sizes": [
+      "One size"
+    ],
+    "colours": [],
+    "variants": [],
+    "bundleOptions": [
+      {
+        "qty": 6,
+        "label": "6 pieces",
+        "price": 17000
+      },
+      {
+        "qty": 12,
+        "label": "Dozen",
+        "price": 34000
+      }
+    ],
+    "images": [
+      "/images/products/uae-jersey-scarf.webp",
+      "/images/products/uae-jersey-scarf-alt.webp"
+    ],
+    "description": "A light, softly draped jersey scarf in a versatile one-size cut. An easy layer for everyday wear.",
+    "details": [
+      "Soft jersey fabric",
+      "One size",
+      "6 pieces — ₦17,000",
+      "Dozen — ₦34,000"
+    ]
+  },
+  {
+    "id": "pocket-perfume-25ml",
+    "slug": "pocket-perfume-25ml",
+    "name": "Pocket Perfume 25ml",
+    "category": "Fragrance",
+    "price": 5000,
+    "stock": 10,
+    "tag": "New drop",
+    "featured": false,
+    "newArrival": true,
+    "bestSeller": false,
+    "sizes": [
+      "25ml"
+    ],
+    "colours": [],
+    "variants": [
+      "Flare",
+      "Parfum",
+      "Forever",
+      "Essence"
+    ],
+    "variantLabel": "Scent",
+    "images": [
+      "/images/products/perfume-25ml.webp",
+      "/images/products/perfume-25ml-alt.webp"
+    ],
+    "description": "A compact 25ml fragrance with four scent profiles. Easy to carry, easy to layer, easy to keep close.",
+    "details": [
+      "25ml bottle",
+      "Four scent profiles",
+      "Choose Flare, Parfum, Forever or Essence",
+      "A good gift or bag-size scent"
+    ]
+  },
+  {
+    "id": "jersey-scarf-medium-big",
+    "slug": "jersey-scarf-medium-big",
+    "name": "Jersey Scarf — Medium/Big",
+    "category": "Scarves",
+    "price": 8000,
+    "stock": 6,
+    "tag": "",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": false,
+    "sizes": [
+      "Medium",
+      "Big"
+    ],
+    "colours": [],
+    "variants": [],
+    "images": [
+      "/images/products/jersey-scarf-medium.webp",
+      "/images/products/jersey-scarf-medium-alt.webp"
+    ],
+    "description": "A larger jersey scarf with a generous drape. Wear it as a wrap, a headscarf or a shoulder layer.",
+    "details": [
+      "Soft jersey fabric",
+      "Medium and big sizes",
+      "Generous, easy drape",
+      "Versatile everyday styling"
+    ]
+  },
+  {
+    "id": "fragrance-duo",
+    "slug": "fragrance-duo",
+    "name": "Fragrance Duo — Sweet & Spiced",
+    "category": "Combos",
+    "price": 8000,
+    "stock": 8,
+    "tag": "Bundle",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": false,
+    "sizes": [
+      "Set"
+    ],
+    "colours": [],
+    "variants": [],
+    "bundleOptions": [],
+    "images": [
+      "/images/products/fragrance-duo.webp",
+      "/images/products/fragrance-duo-alt.webp"
+    ],
+    "description": "A 50ml eau de parfum paired with a 100ml body mist — a complete scent layer in one set.",
+    "details": [
+      "50ml eau de parfum",
+      "100ml body mist",
+      "Two complementary scent profiles",
+      "Gift-ready duo"
+    ]
+  },
+  {
+    "id": "green-fragrance-combo",
+    "slug": "green-fragrance-combo",
+    "name": "Green Fragrance Combo",
+    "category": "Combos",
+    "price": 19000,
+    "stock": 4,
+    "tag": "New drop",
+    "featured": false,
+    "newArrival": true,
+    "bestSeller": false,
+    "sizes": [
+      "Set"
+    ],
+    "colours": [],
+    "variants": [],
+    "bundleOptions": [],
+    "images": [
+      "/images/products/green-fragrance-combo.webp",
+      "/images/products/green-fragrance-combo-alt.webp"
+    ],
+    "description": "A three-piece fragrance set with a fresh, green profile. One layer for the day, one for later, one for the bag.",
+    "details": [
+      "200ml perfumed body spray",
+      "50ml eau de parfum",
+      "250ml perfumed body mist",
+      "Three-piece set"
+    ]
+  },
+  {
+    "id": "pink-fragrance-combo",
+    "slug": "pink-fragrance-combo",
+    "name": "Pink Fragrance Combo",
+    "category": "Combos",
+    "price": 24000,
+    "stock": 2,
+    "tag": "Low stock",
+    "featured": false,
+    "newArrival": true,
+    "bestSeller": false,
+    "sizes": [
+      "Set"
+    ],
+    "colours": [],
+    "variants": [],
+    "bundleOptions": [],
+    "images": [
+      "/images/products/pink-fragrance-combo.webp",
+      "/images/products/pink-fragrance-combo-alt.webp"
+    ],
+    "description": "A four-piece fragrance set in a soft pink profile. Layered, giftable and ready to make a statement.",
+    "details": [
+      "200ml perfumed body spray",
+      "Eau de parfum",
+      "50ml eau de parfum",
+      "50ml fine fragrance body mist"
+    ]
+  },
+  {
+    "id": "uae-jersey-scarf-batch-2",
+    "slug": "uae-jersey-scarf-batch-2",
+    "name": "UAE Jersey Scarf — Batch 2",
+    "category": "Scarves",
+    "price": 3000,
+    "stock": 5,
+    "tag": "Restocked",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": false,
+    "sizes": [
+      "One size"
+    ],
+    "colours": [],
+    "variants": [],
+    "bundleOptions": [
+      {
+        "qty": 6,
+        "label": "6 pieces",
+        "price": 17000
+      },
+      {
+        "qty": 12,
+        "label": "Dozen",
+        "price": 34000
+      }
+    ],
+    "images": [
+      "/images/products/uae-jersey-scarf-batch-2.webp",
+      "/images/products/uae-jersey-scarf-batch-2-alt.webp"
+    ],
+    "description": "A second batch of our UAE jersey scarf. Same soft drape, same easy one-size fit.",
+    "details": [
+      "Soft jersey fabric",
+      "One size",
+      "6 pieces — ₦17,000",
+      "Dozen — ₦34,000"
+    ]
+  },
+  {
+    "id": "concentrated-perfume-oil",
+    "slug": "concentrated-perfume-oil",
+    "name": "Concentrated Perfume Oil",
+    "category": "Fragrance",
+    "price": 2500,
+    "stock": 12,
+    "tag": "",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": false,
+    "sizes": [
+      "24ml"
+    ],
+    "colours": [],
+    "variants": [
+      "Laeqa",
+      "Lamsa",
+      "Mukhallat",
+      "Bushra",
+      "Azhar"
+    ],
+    "variantLabel": "Scent",
+    "images": [
+      "/images/products/perfume-oil-roll-on.webp",
+      "/images/products/perfume-oil-roll-on-alt.webp"
+    ],
+    "description": "A concentrated 24ml roll-on perfume oil in five scent profiles. Small, strong and made to travel.",
+    "details": [
+      "24ml roll-on",
+      "Concentrated perfume oil",
+      "Five scent profiles",
+      "Easy to carry and reapply"
+    ]
+  },
+  {
+    "id": "mini-jersey-scarf",
+    "slug": "mini-jersey-scarf",
+    "name": "Mini Jersey Scarf",
+    "category": "Scarves",
+    "price": 2000,
+    "stock": 15,
+    "tag": "",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": false,
+    "sizes": [
+      "One size"
+    ],
+    "colours": [],
+    "variants": [],
+    "bundleOptions": [
+      {
+        "qty": 3,
+        "label": "3 pieces",
+        "price": 5700
+      }
+    ],
+    "images": [
+      "/images/products/mini-jersey-scarf.webp",
+      "/images/products/mini-jersey-scarf-alt.webp"
+    ],
+    "description": "A smaller jersey scarf with the same soft feel. An easy add-on, gift or everyday layer.",
+    "details": [
+      "Soft jersey fabric",
+      "One size",
+      "From 3 pieces — ₦1,900 each",
+      "Easy to style"
+    ]
+  },
+  {
+    "id": "perfumed-body-spray-200ml",
+    "slug": "perfumed-body-spray-200ml",
+    "name": "Perfumed Body Spray 200ml",
+    "category": "Body & Essentials",
+    "price": 3500,
+    "stock": 9,
+    "tag": "Best seller",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": true,
+    "sizes": [
+      "200ml"
+    ],
+    "colours": [],
+    "variants": [
+      "Mystique",
+      "Smooth",
+      "Noir",
+      "Athena",
+      "Tonight",
+      "Inferno",
+      "Hermes",
+      "Flood",
+      "Oura",
+      "Sensation",
+      "Magic",
+      "Gaia",
+      "Achilles",
+      "Vogue",
+      "Erica"
+    ],
+    "variantLabel": "Scent",
+    "images": [
+      "/images/products/perfumed-body-spray-200ml.webp",
+      "/images/products/perfumed-body-spray-200ml-alt.webp"
+    ],
+    "description": "A 200ml perfumed body spray with fifteen scent profiles. A quick, easy layer for the day.",
+    "details": [
+      "200ml can",
+      "Fifteen scent profiles",
+      "Light, everyday fragrance",
+      "Choose your scent before ordering"
+    ]
+  },
+  {
+    "id": "jersey-scarf-with-inner-cap",
+    "slug": "jersey-scarf-with-inner-cap",
+    "name": "Jersey Scarf with Inner Cap",
+    "category": "Scarves",
+    "price": 4000,
+    "stock": 7,
+    "tag": "Best seller",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": true,
+    "sizes": [
+      "One size"
+    ],
+    "colours": [
+      {
+        "name": "White",
+        "hex": "#F7F3EA"
+      },
+      {
+        "name": "Navy blue",
+        "hex": "#1E2A44"
+      },
+      {
+        "name": "Onion",
+        "hex": "#C7A98B"
+      }
+    ],
+    "variants": [],
+    "images": [
+      "/images/products/jersey-scarf-with-cap.webp",
+      "/images/products/jersey-scarf-with-cap-alt.webp"
+    ],
+    "description": "A jersey scarf with a matching double-layer inner cap included. An easy, put-together set.",
+    "details": [
+      "Soft jersey scarf",
+      "Inner cap included",
+      "White, navy blue or onion",
+      "One size"
+    ]
+  },
+  {
+    "id": "rainbow-chiffon-scarf",
+    "slug": "rainbow-chiffon-scarf",
+    "name": "Rainbow Chiffon Scarf",
+    "category": "Scarves",
+    "price": 3000,
+    "stock": 6,
+    "tag": "",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": false,
+    "sizes": [
+      "One size"
+    ],
+    "colours": [],
+    "variants": [],
+    "images": [
+      "/images/products/rainbow-chiffon-scarf.webp",
+      "/images/products/rainbow-chiffon-scarf-alt.webp"
+    ],
+    "description": "A lightweight chiffon scarf in a range of assorted prints. Bright, soft and easy to layer.",
+    "details": [
+      "Lightweight chiffon",
+      "12 assorted prints",
+      "One size",
+      "Prints vary — ask on WhatsApp"
+    ]
+  },
+  {
+    "id": "vintage-scarf",
+    "slug": "vintage-scarf",
+    "name": "Vintage Scarf",
+    "category": "Scarves",
+    "price": 2000,
+    "stock": 4,
+    "tag": "",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": false,
+    "sizes": [
+      "One size"
+    ],
+    "colours": [],
+    "variants": [],
+    "images": [
+      "/images/products/vintage-scarf.webp",
+      "/images/products/vintage-scarf-alt.webp"
+    ],
+    "description": "A soft, vintage-style scarf with an easy drape. A simple layer that finishes the look.",
+    "details": [
+      "Soft lightweight fabric",
+      "One size",
+      "Easy everyday drape",
+      "Handy gift add-on"
+    ]
+  },
+  {
+    "id": "perfumed-body-spray-250ml",
+    "slug": "perfumed-body-spray-250ml",
+    "name": "Perfumed Body Spray 250ml",
+    "category": "Body & Essentials",
+    "price": 4500,
+    "stock": 8,
+    "tag": "Best seller",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": true,
+    "sizes": [
+      "250ml"
+    ],
+    "colours": [],
+    "variants": [
+      "Pink",
+      "Hour",
+      "Oud",
+      "Rustic",
+      "Patrol",
+      "Venom",
+      "Dynamo",
+      "Jock",
+      "X",
+      "Voyage",
+      "West",
+      "Echo",
+      "Icon",
+      "Carbon",
+      "Only",
+      "The One",
+      "Power"
+    ],
+    "variantLabel": "Scent",
+    "images": [
+      "/images/products/perfumed-body-spray-250ml.webp",
+      "/images/products/perfumed-body-spray-250ml-alt.webp"
+    ],
+    "description": "A 250ml perfumed body spray with seventeen scent profiles. A bigger can for everyday use.",
+    "details": [
+      "250ml can",
+      "Seventeen scent profiles",
+      "Light, everyday fragrance",
+      "Choose your scent before ordering"
+    ]
+  },
+  {
+    "id": "vanilla-body-mist",
+    "slug": "vanilla-body-mist",
+    "name": "Vanilla Crush Body Mist",
+    "category": "Body & Essentials",
+    "price": 2500,
+    "stock": 11,
+    "tag": "Restocked",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": true,
+    "sizes": [
+      "100ml"
+    ],
+    "colours": [],
+    "variants": [],
+    "images": [
+      "/images/products/vanilla-body-mist.webp",
+      "/images/products/vanilla-body-mist-alt.webp"
+    ],
+    "description": "A 100ml vanilla body mist. Sweet, soft and made for everyday layering.",
+    "details": [
+      "100ml body mist",
+      "Warm vanilla profile",
+      "Light everyday scent",
+      "Easy to layer"
+    ]
+  },
+  {
+    "id": "crush-body-mist-set",
+    "slug": "crush-body-mist-set",
+    "name": "Crush Body Mist Set",
+    "category": "Body & Essentials",
+    "price": 3500,
+    "stock": 6,
+    "tag": "",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": false,
+    "sizes": [
+      "100ml"
+    ],
+    "colours": [],
+    "variants": [
+      "Pistachio Crush",
+      "Pinky Crush",
+      "Gelato Crush",
+      "Juicy Crush",
+      "Candy Crush",
+      "Vanilla Crush"
+    ],
+    "variantLabel": "Scent",
+    "images": [
+      "/images/products/crush-body-mist-set.webp",
+      "/images/products/crush-body-mist-set-alt.webp"
+    ],
+    "description": "A 100ml body mist in six crush scent profiles. Pick a mood, or collect the set.",
+    "details": [
+      "100ml body mist",
+      "Six scent profiles",
+      "Light, sweet everyday fragrance",
+      "Choose your scent before ordering"
+    ]
+  },
+  {
+    "id": "eau-de-parfum-50ml",
+    "slug": "eau-de-parfum-50ml",
+    "name": "Eau de Parfum 50ml",
+    "category": "Fragrance",
+    "price": 5500,
+    "stock": 7,
+    "tag": "New drop",
+    "featured": false,
+    "newArrival": true,
+    "bestSeller": false,
+    "sizes": [
+      "50ml"
+    ],
+    "colours": [],
+    "variants": [
+      "Ramadi",
+      "Wardi",
+      "Sapphire",
+      "Musk",
+      "Sexy",
+      "Candy"
+    ],
+    "variantLabel": "Scent",
+    "images": [
+      "/images/products/eau-de-parfum-50ml.webp",
+      "/images/products/eau-de-parfum-50ml-alt.webp"
+    ],
+    "description": "A 50ml eau de parfum in six scent profiles. A versatile size for everyday rotation.",
+    "details": [
+      "50ml eau de parfum",
+      "Six scent profiles",
+      "Easy everyday size",
+      "Choose your scent before ordering"
+    ]
+  },
+  {
+    "id": "far-away-fragrance",
+    "slug": "far-away-fragrance",
+    "name": "Far Away Fragrance",
+    "category": "Fragrance",
+    "price": 5000,
+    "stock": 10,
+    "tag": "",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": false,
+    "sizes": [
+      "One size"
+    ],
+    "colours": [],
+    "variants": [],
+    "images": [
+      "/images/products/far-away-fragrance.webp",
+      "/images/products/far-away-fragrance-alt.webp"
+    ],
+    "description": "A soft, far-away fragrance with an easy, everyday finish. Simple to wear, simple to gift.",
+    "details": [
+      "Soft everyday fragrance",
+      "Easy to wear",
+      "Good for gifting",
+      "One size"
+    ]
+  },
+  {
+    "id": "lace-chiffon-scarf",
+    "slug": "lace-chiffon-scarf",
+    "name": "Lace Chiffon Scarf",
+    "category": "Scarves",
+    "price": 2800,
+    "stock": 3,
+    "tag": "Low stock",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": false,
+    "sizes": [
+      "One size"
+    ],
+    "colours": [],
+    "variants": [],
+    "images": [
+      "/images/products/lace-chiffon-scarf.webp",
+      "/images/products/lace-chiffon-scarf-alt.webp"
+    ],
+    "description": "A lace-textured chiffon scarf with a light, airy finish. Soft enough to layer, detailed enough to stand alone.",
+    "details": [
+      "Lace-textured chiffon",
+      "One size",
+      "Light and airy",
+      "Sale price"
+    ]
+  },
+  {
+    "id": "alya-eau-de-parfum",
+    "slug": "alya-eau-de-parfum",
+    "name": "Alya Eau de Parfum",
+    "category": "Fragrance",
+    "price": 8000,
+    "stock": 5,
+    "tag": "New drop",
+    "featured": false,
+    "newArrival": true,
+    "bestSeller": false,
+    "sizes": [
+      "50ml"
+    ],
+    "colours": [],
+    "variants": [],
+    "images": [
+      "/images/products/alya-eau-de-parfum.webp",
+      "/images/products/alya-eau-de-parfum-alt.webp"
+    ],
+    "description": "A 50ml eau de parfum with a polished, easy-going finish. A scent that sits close and stays put.",
+    "details": [
+      "50ml eau de parfum",
+      "Soft, polished profile",
+      "Everyday and evening",
+      "Gift-ready bottle"
+    ]
+  },
+  {
+    "id": "bourbon-eau-de-parfum",
+    "slug": "bourbon-eau-de-parfum",
+    "name": "Bourbon Eau de Parfum",
+    "category": "Fragrance",
+    "price": 33000,
+    "stock": 4,
+    "tag": "Featured",
+    "featured": true,
+    "newArrival": false,
+    "bestSeller": false,
+    "sizes": [
+      "100ml"
+    ],
+    "colours": [],
+    "variants": [],
+    "images": [
+      "/images/products/bourbon-eau-de-parfum.webp",
+      "/images/products/bourbon-eau-de-parfum-alt.webp"
+    ],
+    "description": "A 100ml eau de parfum with warm, woody depth. A statement bottle for evenings and occasions.",
+    "details": [
+      "100ml eau de parfum",
+      "Warm, woody profile",
+      "Evening and occasion wear",
+      "Gift-ready bottle"
+    ]
+  },
+  {
+    "id": "double-layer-inner-cap",
+    "slug": "double-layer-inner-cap",
+    "name": "Double-Layer Inner Cap",
+    "category": "Body & Essentials",
+    "price": 800,
+    "stock": 20,
+    "tag": "Best seller",
+    "featured": false,
+    "newArrival": false,
+    "bestSeller": true,
+    "sizes": [
+      "One size"
+    ],
+    "colours": [
+      {
+        "name": "White",
+        "hex": "#F7F3EA"
+      },
+      {
+        "name": "Navy blue",
+        "hex": "#1E2A44"
+      },
+      {
+        "name": "Sky blue",
+        "hex": "#8FC5E8"
+      },
+      {
+        "name": "Ash",
+        "hex": "#A8A8A3"
+      },
+      {
+        "name": "Chocolate brown",
+        "hex": "#4B2E24"
+      },
+      {
+        "name": "Brown",
+        "hex": "#7A4E2D"
+      },
+      {
+        "name": "Baby pink",
+        "hex": "#F4C2C2"
+      },
+      {
+        "name": "Fuchsia pink",
+        "hex": "#D63384"
+      },
+      {
+        "name": "Off white",
+        "hex": "#EEE8DC"
+      },
+      {
+        "name": "Powder blue",
+        "hex": "#B7D4E6"
+      },
+      {
+        "name": "Nude",
+        "hex": "#D9B9A1"
+      },
+      {
+        "name": "Lilac",
+        "hex": "#C8A2C8"
+      },
+      {
+        "name": "Purple",
+        "hex": "#7D4FA0"
+      },
+      {
+        "name": "Cream",
+        "hex": "#F3E7C9"
+      },
+      {
+        "name": "Royal blue",
+        "hex": "#2447A8"
+      },
+      {
+        "name": "Turquoise blue",
+        "hex": "#40C4C4"
+      },
+      {
+        "name": "Wine",
+        "hex": "#6B1F32"
+      },
+      {
+        "name": "Magenta",
+        "hex": "#C2185B"
+      },
+      {
+        "name": "Golden yellow",
+        "hex": "#E3B341"
+      }
+    ],
+    "variants": [],
+    "bundleOptions": [
+      {
+        "qty": 3,
+        "label": "3 pieces",
+        "price": 2000
+      },
+      {
+        "qty": 6,
+        "label": "6 pieces",
+        "price": 3900
+      },
+      {
+        "qty": 12,
+        "label": "12 pieces",
+        "price": 7200
+      }
+    ],
+    "images": [
+      "/images/products/double-layer-inner-cap.webp",
+      "/images/products/double-layer-inner-cap-alt.webp"
+    ],
+    "description": "A durable, stretchy, double-layered inner cap. A clean finishing layer under any scarf.",
+    "details": [
+      "Durable double-layer construction",
+      "Stretchy and comfortable",
+      "One size",
+      "3 pieces — ₦2,000 · 6 pieces — ₦3,900 · 12 pieces — ₦7,200"
+    ]
+  }
+]
